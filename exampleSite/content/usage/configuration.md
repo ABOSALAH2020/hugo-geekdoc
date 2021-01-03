@@ -1,5 +1,5 @@
 ---
-title: Configuration
+title: stop
 weight: -10
 ---
 
